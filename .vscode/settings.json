@@ -1,0 +1,4 @@
+{
+    "arduino.enableUSBDetection": true,
+    "C_Cpp.intelliSenseEngine": "Tag Parser"
+}

@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "D:/Program Files (x86)/Arduino/hardware/arduino/avr/cores/arduino",
+                "D:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries/Wire/src",
+                "D:/Program Files (x86)/Arduino/libraries/",
+                "C:/Users/Mehdi/Documents/Arduino/libraries",
+                "C:/Users/Mehdi/Documents/Arduino/libraries/NewPing/src"
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": false,
+                "path": [
+                    "D:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino",
+                    "D:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries/Wire/src",
+                    "D:/Program Files (x86)/Arduino/libraries/",
+                    "C:/Users/Mehdi/Documents/Arduino/libraries/"
+                ]
+            },
+            "intelliSenseMode": "msvc-x64"
+        }
+    ],
+    "version": 3
+}
